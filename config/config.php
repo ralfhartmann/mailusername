@@ -24,7 +24,7 @@
  * @copyright  Andreas Schempp 2009-2011
  * @author     Andreas Schempp <andreas@schempp.ch>
  * @license    http://opensource.org/licenses/lgpl-3.0.html
- * @version    $Id$
+ * @version    $Id: config.php 240 2011-04-05 19:59:14Z aschempp $
  */
 
 
