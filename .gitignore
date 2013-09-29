@@ -1,6 +1,7 @@
 # OS
 .DS_Store
 Thumbs.db
+.directory
 
 # IDEs
 .buildpath
@@ -9,3 +10,5 @@ Thumbs.db
 .build/
 .idea/
 nbproject/
+config/autoload.php
+
